@@ -1,7 +1,7 @@
 # I'm Marily 👋<img src="https://img.icons8.com/?size=100&id=53425&format=png&color=000000" alt="Developer Woman" width="30" height="30">
 
 ## About Me
-Hi there! I'm Marily, a passionate software developer with a strong focus on both frontend and backend development. I have a keen interest in web development and machine learning, and I love working with new technologies and constantly improving my skills. 
+Hi there! I'm Marily, a passionate software developer with a strong focus on both frontend and backend development. I have a keen interest in web development, and I love working with new technologies and constantly improving my skills. 
 
 I primarily work with **C#**, **TypeScript**, and **React**, among other technologies. My expertise spans across the full stack, allowing me to create seamless and efficient applications from the ground up.
 
