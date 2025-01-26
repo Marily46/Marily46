@@ -23,7 +23,7 @@ When I'm not coding, you can find me reading, hiking, or exploring the latest tr
 ## Marily46's GitHub Stats
 
 ![Marily46's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marily46&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marily46&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marily46&show_icons=true&layout=compact&langs_count=8)
 
 ## Contact Me
 - Email: [gonzalezmarily20@gmail.com](mailto:gonzalezmarily20@gmail.com)
